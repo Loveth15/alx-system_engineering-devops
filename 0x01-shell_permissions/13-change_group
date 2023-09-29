@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -grp school hello
+chown +g school hello
