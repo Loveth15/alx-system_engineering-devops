@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod 777 hello
+=======
+chmod 751 hello
+>>>>>>> db05e2c7e0a35f9826d79a6ff8d6ffb13dd5f547
