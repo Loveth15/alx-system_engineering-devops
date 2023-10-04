@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x binary_to_decimal.sh\n
+echo $((2#$BINARY))
